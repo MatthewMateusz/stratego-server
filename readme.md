@@ -4,7 +4,11 @@ This program is deisgned to run on linux.
 
 # Build Instructions
 
-> TODO: Complete after makefile is completed
+To build the project run the following command in root directory of the project
+
+```bash
+make
+```
 
 # Running the server
 
